@@ -1,0 +1,7 @@
+# MetaTrader 5 Demokonto eröffnen
+
+Dieser Begleiter bietet eine umfassende Anleitung zur Eröffnung und Nutzung eines MT5 Demokontos.
+
+- **Zweck**: Bildungsressource und Einstiegshilfe für den Handel mit MetaTrader 5.
+- **Zielseite**: [Hauptseite](https://demokonto-mt5.de/)
+- **Markdown-Content**: [Content in Markdown](content.md)
